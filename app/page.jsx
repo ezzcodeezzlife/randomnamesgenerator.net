@@ -3,12 +3,7 @@ import Features from "@/components/Features"
 import SEOContent from "@/components/SEOContent"
 import { Toaster } from "react-hot-toast"
 
-export const metadata = {
-  title: "Random Name Generator | Create Unique Names Instantly",
-  description:
-    "Generate unique and creative names for people, businesses, and usernames with our powerful Random Name Generator. Fast, customizable, and free to use!",
-  keywords: ["random name generator", "name generator", "business name generator", "username generator"],
-}
+
 
 export default function Home() {
   return (

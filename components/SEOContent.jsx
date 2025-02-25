@@ -8,7 +8,7 @@ export default function SEOContent() {
         Name Generator is designed to help you create unique and creative names for various purposes, including personal
         names, business names, and usernames.
       </p>
-      <h3 className="text-2xl font-semibold text-gray-800 mb-4">Why Use Our Random Name Generator?</h3>
+      <h3 className="text-2xl font-semibold text-gray-800 mb-4">Why Use Our Generator?</h3>
       <p className="text-gray-600 mb-4">
         In today's digital world, coming up with original names can be challenging. Whether you're a writer seeking
         character names, an entrepreneur brainstorming business ideas, or simply looking for a unique online username,
@@ -29,7 +29,7 @@ export default function SEOContent() {
         <li>Get your unique, randomly generated name instantly!</li>
         <li>Use the copy button to easily copy the generated name</li>
       </ol>
-      <h3 className="text-2xl font-semibold text-gray-800 mb-4">Endless Possibilities with Our Name Generator</h3>
+      <h3 className="text-2xl font-semibold text-gray-800 mb-4">Endless Possibilities</h3>
       <p className="text-gray-600 mb-8">
         Our Random Name Generator uses advanced algorithms to create countless name combinations. Whether you need a
         catchy business name, a memorable brand, or a unique character name for your next novel, our tool provides
@@ -46,7 +46,7 @@ export default function SEOContent() {
         </div>
         <div>
           <h3 className="text-xl font-semibold text-gray-800 mb-2">
-            Can I use the generated names for commercial purposes?
+            Can I use the generated content for commercial purposes?
           </h3>
           <p className="text-gray-600">
             While our Random Name Generator provides inspiration, we recommend conducting proper research and

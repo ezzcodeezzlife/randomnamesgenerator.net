@@ -57,12 +57,12 @@ export default function NameGenerator() {
   return (
     (<div
       className="bg-gradient-to-r from-blue-500 to-purple-600 p-8 rounded-xl shadow-2xl mb-8">
-      <h2 className="text-3xl font-bold mb-6 text-white text-center">Generate a Random Name</h2>
-      <div className="grid grid-cols-3 gap-4 mb-8">
+      <h2 className="text-3xl font-bold mb-6 text-white text-center">Generate Random Name</h2>
+      <div className="grid grid-cols-2 gap-4 mb-8">
         {[
           { type: "person", icon: User },
           { type: "business", icon: Briefcase },
-          { type: "username", icon: AtSign },
+          
         ].map(({ type, icon: Icon }) => (
           <Button
             key={type}

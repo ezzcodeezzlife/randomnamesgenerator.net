@@ -43,6 +43,7 @@ export default function RootLayout({ children }) {
   return (
     <html lang="en">
       <meta name="robots" content="index, follow" />
+      <meta name="google-adsense-account" content="ca-pub-8251732556629149"></meta>
       <meta name="google-site-verification" content="BIsUia9v4z7OmWKMXnrGaA_2iek_yP9imVt68uuIHFM" />
       <body
         className={`${geistSans.variable} ${geistMono.variable} antialiased`}

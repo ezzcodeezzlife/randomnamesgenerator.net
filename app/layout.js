@@ -21,8 +21,8 @@ export const metadata = {
   keywords: [
     "random name generator",
     "name generator",
-    "business name generator",
-    "username generator"
+    "random name",
+    
   ],
   publisher: "Random Name Generator",
   creator: "Random Name Generator",

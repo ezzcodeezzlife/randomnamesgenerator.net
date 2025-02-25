@@ -3,7 +3,7 @@ User-agent: *
 Allow: /
 
 # Host
-Host: https://randomnamesgenerator.com
+Host: https://randomnamesgenerator.net
 
 # Sitemaps
-Sitemap: https://randomnamesgenerator.com/sitemap.xml
+Sitemap: https://randomnamesgenerator.net/sitemap.xml

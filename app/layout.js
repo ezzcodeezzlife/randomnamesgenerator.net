@@ -25,13 +25,13 @@ export const metadata = {
   ],
   publisher: "Random Name Generator",
   creator: "Random Name Generator",
-  authors: [{ name: "Tom" }, { name: "Josh", url: "https://randomnamesgenerator.com" }],
-  for: "randomnamesgenerator.com",
+  authors: [{ name: "Tom" }, { name: "Josh", url: "https://randomnamesgenerator.net" }],
+  for: "randomnamesgenerator.net",
   openGraph: {
     title: "Random Name Generator",
     description:
       "Generate unique and creative names for people, businesses, and usernames with our powerful Random Name Generator.",
-    url: "https://randomnamesgenerator.com",
+    url: "https://randomnamesgenerator.net",
     siteName: "Random Name Generator",
     locale: "en_US",
     type: "website"

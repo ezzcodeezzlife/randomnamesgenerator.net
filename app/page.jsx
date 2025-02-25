@@ -12,10 +12,11 @@ export const metadata = {
 
 export default function Home() {
   return (
-    (<main className="min-h-screen bg-gradient-to-b from-gray-50 to-gray-100 py-12">
-      <div className="container mx-auto px-4">
+    (<main
+      className="min-h-screen bg-gradient-to-b from-gray-50 to-gray-100 py-12 px-4 sm:px-6 lg:px-8">
+      <div className="max-w-4xl mx-auto">
         <h1
-          className="text-5xl font-extrabold text-center mb-12 text-transparent bg-clip-text bg-gradient-to-r from-blue-600 to-purple-600">
+          className="text-4xl sm:text-5xl font-extrabold text-center mb-12 text-transparent bg-clip-text bg-gradient-to-r from-blue-600 to-purple-600">
           Random Name Generator
         </h1>
         <NameGenerator />

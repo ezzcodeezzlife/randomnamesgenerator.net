@@ -2,6 +2,9 @@ import { Geist, Geist_Mono } from "next/font/google";
 import "./globals.css";
 import { GoogleAnalytics } from '@next/third-parties/google'
 
+import Script from "next/script";
+
+
 const geistSans = Geist({
   variable: "--font-geist-sans",
   subsets: ["latin"],
@@ -51,6 +54,12 @@ export default function RootLayout({ children }) {
         {children}
       </body>
       <GoogleAnalytics gaId="G-LKMHYZ78EB" />
+      <Script
+      async
+      src={`https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8251732556629149`}
+      crossOrigin="anonymous"
+      strategy="afterInteractive"
+    />
 
     </html>
   );
